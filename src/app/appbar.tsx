@@ -1,7 +1,5 @@
 import React from "react";
 import { LOGO_URL_DARK } from "@/lib/logo_urls";
-import { Button } from "@/components/ui/button";
-import WebsocketComp from "@/components/data_link/websocket_comp";
 
 const Appbar = () => {
   return (
