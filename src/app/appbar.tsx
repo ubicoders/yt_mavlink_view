@@ -10,7 +10,7 @@ const Appbar = () => {
         <img src={LOGO_URL_DARK} className="w-96 " />
       </div>
       <div className="text-3xl flex justify-center items-center">
-        Flight Indicators
+        Flight Indicators Example
       </div>
     </div>
   );
