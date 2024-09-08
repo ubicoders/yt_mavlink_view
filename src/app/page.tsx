@@ -1,6 +1,4 @@
-import WebsocketClientButton from "@/components/data_link/ws_client";
 import FlightIndicators from "../components/flight_indicator";
-import { ModeToggle } from "./theme-toggle";
 import WebsocketComp from "@/components/data_link/websocket_comp";
 
 export default function Home() {
